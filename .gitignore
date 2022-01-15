@@ -1,0 +1,9 @@
+.vs/
+WebUI.AcceptanceTests/bin/
+WebUI.AcceptanceTests/obj/
+WebUI.Automation/bin/
+WebUI.Automation/obj/
+WebUI.Domain/bin/
+WebUI.Domain/obj/
+/*.log
+WebUI.AcceptanceTests/Features/*.feature.cs
